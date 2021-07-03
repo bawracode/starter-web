@@ -1,5 +1,6 @@
 # Starter Web Repo
 This is a simple project for showcasing the how to use git and github together.
+Adding a line for rebasing purpose.
 ## Intoduction
 This is example to show different parts of Git repository and various commands using a web project.
 ## Purpose
