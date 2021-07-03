@@ -9,3 +9,5 @@ This is a sample web project. It can be deployed on any server remotely or local
 The platform used is PHP.
 ## How to contribute
 Anyone can make code improvisations and submit it to us to make this training program more efficient.
+### Copyright
+2021 Git.Training
