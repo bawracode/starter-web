@@ -12,4 +12,4 @@ The platform used is PHP.
 Please fork this repository and then issue Pull Request.
 Anyone can make code improvisations and submit it to us to make this training program more efficient.
 ### Copyright
-2021 Git.Training
+2021 Git.Training. All rights reserved.
